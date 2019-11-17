@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 754b5b7d94183634da80fab6aa147520, type: 3}
+  m_Name: Queen
+  m_EditorClassIdentifier: 
+  cardName: Queen
+  art: {fileID: 2800000, guid: 624424b0ba2ff5442817ca1aeb4d3348, type: 3}
+  cardDetails: Mamma, Just Killed a man...
+  swipeRightText: No worries!
+  swipeLeftText: OMG YOU KILLED KENNY
+  rightSwipeCard: {fileID: 11400000, guid: 1e6d2d4d8b2d1004a984f166895952b1, type: 2}
+  leftSwipeCard: {fileID: 11400000, guid: c8a2d1a9c8bdacb4299db3943396506a, type: 2}
